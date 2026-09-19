@@ -16,7 +16,7 @@ Protocol: Voltage Clamp
 
 Mouse age: 14 weeks
 
-Figure #1. (Top image) Raw traces & (Bottom image) regions to analyze in red (baseline, Resistant access (Ra), Resistant Input (Ri) and optogentic evoked response (IPSC).
+Figure #1. (Top image) Raw traces & (Bottom image) regions to analyze in red (baseline, Access Resistance (Ra), Input Resistance (Ri), and optogenetic-evoked response (IPSC).
 
 <img width="1762" height="821" alt="Figure1" src="https://github.com/user-attachments/assets/7f211165-a08b-41a2-8155-2c99e341b8ea" />
 
@@ -39,7 +39,7 @@ Selected traces for each solution:
 
            84    98             99    142         146    160    
 
-              Wash-in            IPSC (Normalized), Ra (MOhms), Ri (MOhms), Holding I (mV)
+              Wash-in            IPSC (Normalized), Ra (MΩ), Ri (MΩ), Holding I (mV)
     _________________________    _________________________________________________________
 
     {'Baseline 01 (Control)'}           0.92365       25.12      202.55     -77.653       
