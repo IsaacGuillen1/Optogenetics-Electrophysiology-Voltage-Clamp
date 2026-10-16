@@ -68,6 +68,7 @@ Selected traces for each solution:
     {'GZ 05'                }          0.048677       21.94      211.21     -78.823       
 
 Analyzing criteria if Ra is >20% or <-20% from baseline:
+Recordings during which the series resistance varied by more than 20% were discarded.
 
     Ra_Criteria%   Ri_Criteria%   I_Holding_Criteria%
     ___________    ___________    __________________
